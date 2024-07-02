@@ -8,7 +8,7 @@ Once this is downloaded to your computer, you will need to "flash" this to an ex
 
 Download and install Balena Etcher. Start the program. You will see the following screen:
 
-![[Teaching/Courses/DH/3-assignments-dph/1-intro_assignment_dph/attachments/Screenshot by Dropbox Capture 1.png]]
+![[balena_etcher copy.png]]
 
 Click on **Flash from File** and point to the location where you have downloaded the Debian .iso file. 
 
