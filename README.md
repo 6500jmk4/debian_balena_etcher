@@ -8,7 +8,7 @@ Once this is downloaded to your computer, you will need to "flash" this to an ex
 
 Download and install Balena Etcher. Start the program. You will see the following screen:
 
-![[balena_etcher copy.png]]
+![Interface for Balena Etcher with three icons for "Flash from File," "Select target," and "Flash."](https://github.com/6500jmk4/debian_balena_etcher/blob/main/balena_etcher%20copy.png)
 
 Click on **Flash from File** and point to the location where you have downloaded the Debian .iso file. 
 
